@@ -1,0 +1,2 @@
+# Bayesian-Inference-and-Probabilistic-Programming-for-Data-Science
+Using PyMC, I built a Bayesian linear regression model with informed priors to predict insurance charges. NUTS sampling generated posteriors, and predictive intervals were extracted. Compared to linear regression (RMSE, MAE, R²), it matched performance while providing interpretable credible intervals, boosting transparency and trust.
